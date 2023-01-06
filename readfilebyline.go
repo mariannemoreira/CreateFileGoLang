@@ -1,4 +1,4 @@
-//Mari trying create an boox example
+
 //Creating a file txt
 //Writing inside the file txt
 //Reading a file line by line
